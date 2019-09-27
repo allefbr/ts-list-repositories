@@ -1,6 +1,6 @@
 ## React + Typescript
 
-Repository contains code related to my typescript study, a small boilterplate with CRA + Redux + Redux Saga + axio + typesafe-actions based on Rocketseat started
+Repository contains code related to my typescript study, a small boilterplate with CRA + Redux + Redux Saga + axios + typesafe-actions + eslint based on Rocketseat started
 
 In the project directory, you can run:
 
